@@ -1,0 +1,38 @@
+body{
+  font-family: Impact;
+  background-color: rgb(15, 0, 83);
+}
+
+header {
+    background-color: rgb(39, 39, 39);
+    padding: 50px;
+}
+
+img {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+p {
+    border: 1px solid rgb(25, 0, 255);
+    color: #ffffff;
+}
+
+h1 {
+    color: rgb(0, 44, 175);
+    font-size: 30px;
+}
+
+h2 {
+    color: rgb(0, 44, 175);
+    font-size: 30px;
+}
+
+h3 {
+    color: rgb(0, 44, 175);
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(0, 44, 175);
+    font-size: 30px;
+}
